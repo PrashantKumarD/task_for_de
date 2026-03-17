@@ -1,5 +1,5 @@
 def greet():
-    print("Hello from MAIN branch - version 2!")
+    print("Hello from both MAIN and FEATURE branches!")
 
 def farewell():
-    print("Goodbye from MAIN branch!")
+    print("Goodbye from both branches!")
